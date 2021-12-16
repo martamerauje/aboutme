@@ -6,3 +6,4 @@ Data-driven, analytical, and strategic professional offering a comprehensive bac
 - Python (Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 - SQL
 - Tableau
+- Excel
