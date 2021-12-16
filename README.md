@@ -10,6 +10,6 @@ Data-driven, analytical, and strategic professional offering a comprehensive bac
 
 # Contact Me
 
-![image](https://user-images.githubusercontent.com/87443157/146433116-6c5b1484-7e29-4f5c-be08-08a73bb42323.png)[LinkedIn](https://www.linkedin.com/in/martamerauje/)
-[Email] (mamerauje@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/martamerauje/)
+[Email] (mailto:mamerauje@gmail.com.com)
 [Tableau](https://public.tableau.com/app/profile/marta.merauje#!/)
