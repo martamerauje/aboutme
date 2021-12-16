@@ -9,7 +9,6 @@ Data-driven, analytical, and strategic professional offering a comprehensive bac
 - Excel
 
 # Contact Me
-![image](https://user-images.githubusercontent.com/87443157/146434123-c2081dcb-6bce-4367-a697-2e2ca4d2ff8c.png)
-
 [LinkedIn](https://www.linkedin.com/in/martamerauje/)
+
 [Tableau](https://public.tableau.com/app/profile/marta.merauje#!/)
