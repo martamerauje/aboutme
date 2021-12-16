@@ -7,3 +7,8 @@ Data-driven, analytical, and strategic professional offering a comprehensive bac
 - SQL
 - Tableau
 - Excel
+
+# Contact Me
+[LinkedIn](https://www.linkedin.com/in/martamerauje/)
+[Email] (mamerauje@gmail.com)
+[Tableau](https://public.tableau.com/app/profile/marta.merauje#!/)
