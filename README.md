@@ -8,7 +8,7 @@ Data-driven, analytical, and strategic professional offering a comprehensive bac
 - Tableau
 - Excel
 
-# Contact Me
+## Contact/Portfolio
 [LinkedIn](https://www.linkedin.com/in/martamerauje/)
 
 [Tableau](https://public.tableau.com/app/profile/marta.merauje#!/)
