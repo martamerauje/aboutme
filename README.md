@@ -1,8 +1,8 @@
-#Profile
+# Profile
 
 Data-driven, analytical, and strategic professional offering a comprehensive background in data analytics, data visualization, business analysis, and process improvement. A consistent storyteller armed with strong knowledge in marketing and public relations. Integrates both best practices and business acumen in the optimization of data analytics and operational initiatives.
 
-#Skills
+# Skills
 - Python (Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 - SQL
 - Tableau
